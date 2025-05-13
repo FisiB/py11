@@ -69,9 +69,6 @@ with open(file_path, "w") as file:
 with open(file_path, "w") as file:
     file.write("Koha: " + str(future_date1))
 
-
-
-
 with open(file_path,"r")as file:
     content=file.read()
     print(content)
