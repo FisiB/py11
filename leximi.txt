@@ -1,7 +1,1 @@
-CV
-
-Emri= Lisa
-
-Mbiemri= Shahini
-
-Mosha=15
+Hello World
